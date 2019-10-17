@@ -549,3 +549,595 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.17-13.38.37:122][388]LogDirectoryWatcher: A directory notification failed for 'D:/Soul/Soul/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.17-13.38.37:122][388]LogDirectoryWatcher: A directory notification failed for 'D:/Soul/Soul/Content/Developers/403/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.17-13.38.37:122][388]LogDirectoryWatcher: A directory notification failed for 'D:/Soul/Soul/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.17-14.27.51:961][109]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.17-14.27.52:214][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2019.10.17-14.27.52:214][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2019.10.17-14.27.52:214][109]LogStaticMesh: sm_en_Brick_02_01 스태틱 메시 빌드중...
+[2019.10.17-14.27.52:330][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_6 (AutoDXT, 512X256)
+[2019.10.17-14.27.52:330][109]LogStaticMesh: Built static mesh [0.12s] /Game/AbandonedFactoryBuildings/Environment/Props/Bricks/Meshes/sm_en_Brick_02_01.sm_en_Brick_02_01
+[2019.10.17-14.27.52:376][109]LogStaticMesh: sm_DryPlants_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.27.52:392][109]LogStaticMesh: Built static mesh [0.02s] /Game/AbandonedFactoryBuildings/Environment/Foliage_01/Meshes/sm_DryPlants_01_01.sm_DryPlants_01_01
+[2019.10.17-14.27.52:393][109]LogStaticMesh: sm_en_Brick_03_01 스태틱 메시 빌드중...
+[2019.10.17-14.27.52:486][109]LogStaticMesh: Built static mesh [0.09s] /Game/AbandonedFactoryBuildings/Environment/Props/Bricks/Meshes/sm_en_Brick_03_01.sm_en_Brick_03_01
+[2019.10.17-14.27.52:489][109]LogStaticMesh: sm_en_Brick_04_01 스태틱 메시 빌드중...
+[2019.10.17-14.27.52:617][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 4096X4096)
+[2019.10.17-14.27.52:617][109]LogStaticMesh: Built static mesh [0.13s] /Game/AbandonedFactoryBuildings/Environment/Props/Bricks/Meshes/sm_en_Brick_04_01.sm_en_Brick_04_01
+[2019.10.17-14.27.52:621][109]LogStaticMesh: sm_en_Brick_05_01 스태틱 메시 빌드중...
+[2019.10.17-14.27.52:666][109]LogStaticMesh: Built static mesh [0.05s] /Game/AbandonedFactoryBuildings/Environment/Props/Bricks/Meshes/sm_en_Brick_05_01.sm_en_Brick_05_01
+[2019.10.17-14.27.52:669][109]LogStaticMesh: sm_en_Brick_06_01 스태틱 메시 빌드중...
+[2019.10.17-14.27.52:724][109]LogStaticMesh: Built static mesh [0.06s] /Game/AbandonedFactoryBuildings/Environment/Props/Bricks/Meshes/sm_en_Brick_06_01.sm_en_Brick_06_01
+[2019.10.17-14.27.52:725][109]LogStaticMesh: sm_en_Brick_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.27.52:836][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2019.10.17-14.27.52:836][109]LogStaticMesh: Built static mesh [0.11s] /Game/AbandonedFactoryBuildings/Environment/Props/Bricks/Meshes/sm_en_Brick_01_01.sm_en_Brick_01_01
+[2019.10.17-14.27.52:875][109]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.10.17-14.27.53:416][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2019.10.17-14.27.53:416][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_1 (AutoDXT, 4096X2048)
+[2019.10.17-14.27.53:416][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 4096X4096)
+[2019.10.17-14.27.53:416][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 91
+[2019.10.17-14.27.53:416][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 81
+[2019.10.17-14.27.53:416][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2019.10.17-14.27.53:416][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2019.10.17-14.27.53:416][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_2 (AutoDXT, 4096X2048)
+[2019.10.17-14.27.53:416][109]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.10.17-14.27.53:687][109]LogMaterial: Display: Missing cached shader map for material Landscape, compiling. 
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 341
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 331
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 321
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 311
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 301
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 291
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 281
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 271
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 261
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 251
+[2019.10.17-14.28.14:858][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 241
+[2019.10.17-14.28.14:858][109]LogMaterial: Display: Missing cached shader map for material m_BaseMaterial_01, compiling. 
+[2019.10.17-14.28.15:005][109]LogMaterial: Display: Missing cached shader map for material m_BaseMaterial_01, compiling. 
+[2019.10.17-14.28.15:119][109]LogMaterial: Display: Missing cached shader map for material m_DryPlants_01_01, compiling. 
+[2019.10.17-14.28.15:213][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 461
+[2019.10.17-14.28.15:213][109]LogAIModule: Creating AISystem for world Main_Warehouse_01
+[2019.10.17-14.28.15:407][109]LogAssetEditorManager: Opening Asset editor for World /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01
+[2019.10.17-14.28.15:445][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.10.17-14.28.15:477][109]Cmd: MAP LOAD FILE="../../../../../Soul/Soul/Content/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-14.28.15:477][109]LightingResults: New page: 라이팅 빌드
+[2019.10.17-14.28.15:478][109]LoadErrors: New page: 맵 로드중: Main_Warehouse_01.umap
+[2019.10.17-14.28.15:530][109]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-14.28.15:545][109]MapCheck: New page: 맵 체크
+[2019.10.17-14.28.15:545][109]LightingResults: New page: 라이팅 빌드
+[2019.10.17-14.28.15:686][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.10.17-14.28.15:750][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 566
+[2019.10.17-14.28.15:750][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 556
+[2019.10.17-14.28.15:803][109]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay) is flushing async loading
+[2019.10.17-14.28.15:803][109]LogStreaming: Display: Flushing async loaders.
+[2019.10.17-14.28.15:911][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_15 (DXT1, 64X64)
+[2019.10.17-14.28.15:911][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_15 (AutoDXT, 64X64)
+[2019.10.17-14.28.15:911][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_15 (AutoDXT, 64X32)
+[2019.10.17-14.28.15:973][109]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment) is flushing async loading
+[2019.10.17-14.28.17:426][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_14 (AutoDXT, 64X64)
+[2019.10.17-14.28.17:426][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.10.17-14.28.17:426][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_11 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.17:426][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_13 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.17:426][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.17:426][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_10 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.17:426][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.17:493][109]LogStaticMesh: sm_en_Background_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.17:511][109]LogStaticMesh: Built static mesh [0.02s] /Game/AbandonedFactoryBuildings/Environment/PlanesBackground_01/Meshes/sm_en_Background_01_01.sm_en_Background_01_01
+[2019.10.17-14.28.17:523][109]LogStaticMesh: sm_en_Lamp_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.18:030][109]LogStaticMesh: Built static mesh [0.51s] /Game/AbandonedFactoryBuildings/Environment/Props/Lamp_01/sm_en_Lamp_01_01.sm_en_Lamp_01_01
+[2019.10.17-14.28.18:106][109]LogStaticMesh: sm_en_pipe_01_04 스태틱 메시 빌드중...
+[2019.10.17-14.28.18:724][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.18:724][109]LogStaticMesh: Built static mesh [0.62s] /Game/AbandonedFactoryBuildings/Environment/Pipe_01/Meshes/sm_en_pipe_01_04.sm_en_pipe_01_04
+[2019.10.17-14.28.18:731][109]LogStaticMesh: sm_en_PipeBackground_02_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.18:769][109]LogStaticMesh: Built static mesh [0.04s] /Game/AbandonedFactoryBuildings/Environment/PipeBackground_02/sm_en_PipeBackground_02_02.sm_en_PipeBackground_02_02
+[2019.10.17-14.28.18:774][109]LogStaticMesh: sm_en_PipeBackground_02_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.19:279][109]LogStaticMesh: Built static mesh [0.51s] /Game/AbandonedFactoryBuildings/Environment/PipeBackground_02/sm_en_PipeBackground_02_01.sm_en_PipeBackground_02_01
+[2019.10.17-14.28.19:290][109]LogStaticMesh: sm_en_pipe_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.19:313][109]LogStaticMesh: Built static mesh [0.02s] /Game/AbandonedFactoryBuildings/Environment/Pipe_01/Meshes/sm_en_pipe_01_01.sm_en_pipe_01_01
+[2019.10.17-14.28.19:314][109]LogStaticMesh: sm_en_Trail_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.19:470][109]LogStaticMesh: Built static mesh [0.16s] /Game/AbandonedFactoryBuildings/Environment/Trails_01/sm_en_Trail_01_01.sm_en_Trail_01_01
+[2019.10.17-14.28.19:475][109]LogStaticMesh: sm_en_Trail_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.19:870][109]LogStaticMesh: Built static mesh [0.40s] /Game/AbandonedFactoryBuildings/Environment/Trails_01/sm_en_Trail_01_02.sm_en_Trail_01_02
+[2019.10.17-14.28.19:877][109]LogStaticMesh: sm_OldWarehouses_Wall_C_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.20:905][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_7 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.20:905][109]LogStaticMesh: Built static mesh [1.03s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallC/Meshes/sm_OldWarehouses_Wall_C_01.sm_OldWarehouses_Wall_C_01
+[2019.10.17-14.28.20:930][109]LogStaticMesh: sm_OldWarehouses_WallD_02_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:172][109]LogStaticMesh: Built static mesh [0.24s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallD/Meshes/sm_OldWarehouses_WallD_02_01.sm_OldWarehouses_WallD_02_01
+[2019.10.17-14.28.21:176][109]LogStaticMesh: sm_OldWarehouses_WallD_02_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:437][109]LogStaticMesh: Built static mesh [0.26s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallD/Meshes/sm_OldWarehouses_WallD_02_02.sm_OldWarehouses_WallD_02_02
+[2019.10.17-14.28.21:443][109]LogStaticMesh: sm_OldWarehouses_WallD_03_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:503][109]LogStaticMesh: Built static mesh [0.06s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallD/Meshes/sm_OldWarehouses_WallD_03_02.sm_OldWarehouses_WallD_03_02
+[2019.10.17-14.28.21:505][109]LogStaticMesh: sm_OldWarehouses_WallD_03_03 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:635][109]LogStaticMesh: Built static mesh [0.13s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallD/Meshes/sm_OldWarehouses_WallD_03_03.sm_OldWarehouses_WallD_03_03
+[2019.10.17-14.28.21:637][109]LogStaticMesh: sm_en_GroundPavestone_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:666][109]LogStaticMesh: Built static mesh [0.03s] /Game/AbandonedFactoryBuildings/Environment/GroundPavestone_01/Meshes/sm_en_GroundPavestone_01_01.sm_en_GroundPavestone_01_01
+[2019.10.17-14.28.21:717][109]LogStaticMesh: sm_en_Background_01_05 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:741][109]LogStaticMesh: Built static mesh [0.03s] /Game/AbandonedFactoryBuildings/Environment/PlanesBackground_01/Meshes/sm_en_Background_01_05.sm_en_Background_01_05
+[2019.10.17-14.28.21:749][109]LogStaticMesh: sm_BuildingFoundation_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:839][109]LogStaticMesh: Built static mesh [0.09s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_BuildingFoundation_01_01.sm_BuildingFoundation_01_01
+[2019.10.17-14.28.21:848][109]LogStaticMesh: sm_BuildingFoundation_02_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:906][109]LogStaticMesh: Built static mesh [0.06s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_BuildingFoundation_02_01.sm_BuildingFoundation_02_01
+[2019.10.17-14.28.21:908][109]LogStaticMesh: sm_en_CartonBox_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.21:971][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_8 (AutoDXT, 2048X2048)
+[2019.10.17-14.28.21:971][109]LogStaticMesh: Built static mesh [0.06s] /Game/AbandonedFactoryBuildings/Environment/Props/CartonBox_01/Meshes/sm_en_CartonBox_01_01.sm_en_CartonBox_01_01
+[2019.10.17-14.28.21:973][109]LogStaticMesh: sm_en_Curb_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.22:023][109]LogStaticMesh: Built static mesh [0.05s] /Game/AbandonedFactoryBuildings/Environment/Curb_01/Meshes/sm_en_Curb_01_01.sm_en_Curb_01_01
+[2019.10.17-14.28.22:025][109]LogStaticMesh: sm_en_Curb_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.22:076][109]LogStaticMesh: Built static mesh [0.05s] /Game/AbandonedFactoryBuildings/Environment/Curb_01/Meshes/sm_en_Curb_01_02.sm_en_Curb_01_02
+[2019.10.17-14.28.22:078][109]LogStaticMesh: sm_en_GasCylinder_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.22:517][109]LogStaticMesh: Built static mesh [0.44s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_GasCylinder_01/Meshes/sm_en_GasCylinder_01_01.sm_en_GasCylinder_01_01
+[2019.10.17-14.28.22:549][109]LogStaticMesh: sm_en_GroundConcrete_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.22:705][109]LogStaticMesh: Built static mesh [0.18s] /Game/AbandonedFactoryBuildings/Environment/GroundConcrete_01/Meshes/sm_en_GroundConcrete_01_01.sm_en_GroundConcrete_01_01
+[2019.10.17-14.28.22:709][109]LogStaticMesh: sm_en_GroundConcrete_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.22:832][109]LogStaticMesh: Built static mesh [0.12s] /Game/AbandonedFactoryBuildings/Environment/GroundConcrete_01/Meshes/sm_en_GroundConcrete_01_02.sm_en_GroundConcrete_01_02
+[2019.10.17-14.28.22:836][109]LogStaticMesh: sm_en_GroundConcrete_01_03 스태틱 메시 빌드중...
+[2019.10.17-14.28.22:949][109]LogStaticMesh: Built static mesh [0.11s] /Game/AbandonedFactoryBuildings/Environment/GroundConcrete_01/Meshes/sm_en_GroundConcrete_01_03.sm_en_GroundConcrete_01_03
+[2019.10.17-14.28.22:953][109]LogStaticMesh: sm_en_GroundConcrete_01_04 스태틱 메시 빌드중...
+[2019.10.17-14.28.23:060][109]LogStaticMesh: Built static mesh [0.11s] /Game/AbandonedFactoryBuildings/Environment/GroundConcrete_01/Meshes/sm_en_GroundConcrete_01_04.sm_en_GroundConcrete_01_04
+[2019.10.17-14.28.23:063][109]LogStaticMesh: sm_en_GroundConcrete_01_05 스태틱 메시 빌드중...
+[2019.10.17-14.28.23:176][109]LogStaticMesh: Built static mesh [0.11s] /Game/AbandonedFactoryBuildings/Environment/GroundConcrete_01/Meshes/sm_en_GroundConcrete_01_05.sm_en_GroundConcrete_01_05
+[2019.10.17-14.28.23:179][109]LogStaticMesh: sm_en_GroundConcrete_01_06 스태틱 메시 빌드중...
+[2019.10.17-14.28.23:293][109]LogStaticMesh: Built static mesh [0.11s] /Game/AbandonedFactoryBuildings/Environment/GroundConcrete_01/Meshes/sm_en_GroundConcrete_01_06.sm_en_GroundConcrete_01_06
+[2019.10.17-14.28.23:296][109]LogStaticMesh: sm_en_LoadingRamp_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.23:871][109]LogStaticMesh: Built static mesh [0.57s] /Game/AbandonedFactoryBuildings/Environment/LoadingRamp_01/Meshes/sm_en_LoadingRamp_01_01.sm_en_LoadingRamp_01_01
+[2019.10.17-14.28.23:882][109]LogStaticMesh: sm_en_MetalSupport_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.25:098][109]LogStaticMesh: Built static mesh [1.22s] /Game/AbandonedFactoryBuildings/Environment/MetalSupport_01/Meshes/sm_en_MetalSupport_01_01.sm_en_MetalSupport_01_01
+[2019.10.17-14.28.25:127][109]LogStaticMesh: sm_en_MetalSupport_01_04 스태틱 메시 빌드중...
+[2019.10.17-14.28.25:369][109]LogStaticMesh: Built static mesh [0.24s] /Game/AbandonedFactoryBuildings/Environment/MetalSupport_01/Meshes/sm_en_MetalSupport_01_04.sm_en_MetalSupport_01_04
+[2019.10.17-14.28.25:376][109]LogStaticMesh: sm_en_MetalSupport_01_05 스태틱 메시 빌드중...
+[2019.10.17-14.28.25:511][109]LogStaticMesh: Built static mesh [0.14s] /Game/AbandonedFactoryBuildings/Environment/MetalSupport_01/Meshes/sm_en_MetalSupport_01_05.sm_en_MetalSupport_01_05
+[2019.10.17-14.28.25:516][109]LogStaticMesh: sm_en_MetalSupport_01_06 스태틱 메시 빌드중...
+[2019.10.17-14.28.25:646][109]LogStaticMesh: Built static mesh [0.13s] /Game/AbandonedFactoryBuildings/Environment/MetalSupport_01/Meshes/sm_en_MetalSupport_01_06.sm_en_MetalSupport_01_06
+[2019.10.17-14.28.25:651][109]LogStaticMesh: sm_en_MetalSupport_01_03 스태틱 메시 빌드중...
+[2019.10.17-14.28.26:404][109]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2019.10.17-14.28.26:404][109]LogStaticMesh: Built static mesh [0.75s] /Game/AbandonedFactoryBuildings/Environment/MetalSupport_01/Meshes/sm_en_MetalSupport_01_03.sm_en_MetalSupport_01_03
+[2019.10.17-14.28.26:420][109]LogStaticMesh: sm_en_MetalSupport_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.26:905][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.10.17-14.28.26:905][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_14 (DXT1, 64X64)
+[2019.10.17-14.28.26:905][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.10.17-14.28.26:905][109]LogStaticMesh: Built static mesh [0.48s] /Game/AbandonedFactoryBuildings/Environment/MetalSupport_01/Meshes/sm_en_MetalSupport_01_02.sm_en_MetalSupport_01_02
+[2019.10.17-14.28.26:930][109]LogStaticMesh: sm_en_ConcretePlates_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.26:934][109]LogStaticMesh: Built static mesh [0.00s] /Game/AbandonedFactoryBuildings/Environment/ConcretePlates_01/Meshes/sm_en_ConcretePlates_01.sm_en_ConcretePlates_01
+[2019.10.17-14.28.26:934][109]LogStaticMesh: sm_en_pipe_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.26:972][109]LogStaticMesh: Built static mesh [0.04s] /Game/AbandonedFactoryBuildings/Environment/Pipe_01/Meshes/sm_en_pipe_01_02.sm_en_pipe_01_02
+[2019.10.17-14.28.26:973][109]LogStaticMesh: sm_en_pipe_01_03 스태틱 메시 빌드중...
+[2019.10.17-14.28.27:346][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2019.10.17-14.28.27:346][109]LogStaticMesh: Built static mesh [0.37s] /Game/AbandonedFactoryBuildings/Environment/Pipe_01/Meshes/sm_en_pipe_01_03.sm_en_pipe_01_03
+[2019.10.17-14.28.27:413][109]LogStaticMesh: sm_en_pipe_01_05 스태틱 메시 빌드중...
+[2019.10.17-14.28.27:754][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_10 (DXT1, 2048X2048)
+[2019.10.17-14.28.27:754][109]LogStaticMesh: Built static mesh [0.38s] /Game/AbandonedFactoryBuildings/Environment/Pipe_01/Meshes/sm_en_pipe_01_05.sm_en_pipe_01_05
+[2019.10.17-14.28.27:759][109]LogStaticMesh: sm_en_Roof_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.27:870][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_11 (DXT1, 2048X2048)
+[2019.10.17-14.28.27:870][109]LogStaticMesh: Built static mesh [0.11s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_01.sm_en_Roof_01_01
+[2019.10.17-14.28.27:880][109]LogStaticMesh: sm_en_Roof_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:001][109]LogStaticMesh: Built static mesh [0.12s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_02.sm_en_Roof_01_02
+[2019.10.17-14.28.28:006][109]LogStaticMesh: sm_en_Roof_01_03 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:140][109]LogStaticMesh: Built static mesh [0.13s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_03.sm_en_Roof_01_03
+[2019.10.17-14.28.28:145][109]LogStaticMesh: sm_en_Roof_01_05 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:191][109]LogStaticMesh: Built static mesh [0.05s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_05.sm_en_Roof_01_05
+[2019.10.17-14.28.28:194][109]LogStaticMesh: sm_en_Roof_01_07 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:199][109]LogStaticMesh: Built static mesh [0.01s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_07.sm_en_Roof_01_07
+[2019.10.17-14.28.28:201][109]LogStaticMesh: sm_en_Roof_01_08 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:298][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_13 (DXT1, 2048X2048)
+[2019.10.17-14.28.28:298][109]LogStaticMesh: Built static mesh [0.10s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_08.sm_en_Roof_01_08
+[2019.10.17-14.28.28:304][109]LogStaticMesh: sm_en_Roof_01_09 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:332][109]LogStaticMesh: Built static mesh [0.03s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_09.sm_en_Roof_01_09
+[2019.10.17-14.28.28:333][109]LogStaticMesh: sm_en_Roof_01_06 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:334][109]LogStaticMesh: Built static mesh [0.00s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_06.sm_en_Roof_01_06
+[2019.10.17-14.28.28:335][109]LogStaticMesh: sm_en_Roof_01_04 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:350][109]LogStaticMesh: Built static mesh [0.02s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_04.sm_en_Roof_01_04
+[2019.10.17-14.28.28:351][109]LogStaticMesh: sm_en_Roof_01_11 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:412][109]LogStaticMesh: Built static mesh [0.06s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_11.sm_en_Roof_01_11
+[2019.10.17-14.28.28:414][109]LogStaticMesh: sm_en_Roof_01_10 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:420][109]LogStaticMesh: Built static mesh [0.01s] /Game/AbandonedFactoryBuildings/Environment/Roof_01/Meshes/sm_en_Roof_01_10.sm_en_Roof_01_10
+[2019.10.17-14.28.28:422][109]LogStaticMesh: sm_en_RubbleContainer_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.28:641][109]LogStaticMesh: Built static mesh [0.22s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_RubbleContainer_01/Meshes/sm_en_RubbleContainer_01.sm_en_RubbleContainer_01
+[2019.10.17-14.28.28:646][109]LogStaticMesh: sm_en_Manhole_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.29:709][109]LogStaticMesh: Built static mesh [1.06s] /Game/AbandonedFactoryBuildings/Environment/Manhole_01/Meshes/sm_en_Manhole_01_01.sm_en_Manhole_01_01
+[2019.10.17-14.28.29:732][109]LogStaticMesh: sm_en_TrashBag_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.30:417][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.10.17-14.28.30:417][109]LogStaticMesh: Built static mesh [0.69s] /Game/AbandonedFactoryBuildings/Environment/Props/TrashBag_01/Meshes/sm_en_TrashBag_01_01.sm_en_TrashBag_01_01
+[2019.10.17-14.28.30:436][109]LogStaticMesh: sm_en_TrashContainer_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.32:752][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_7 (DXT1, 2048X2048)
+[2019.10.17-14.28.32:752][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_8 (DXT1, 2048X2048)
+[2019.10.17-14.28.32:752][109]LogStaticMesh: Built static mesh [2.32s] /Game/AbandonedFactoryBuildings/Environment/Props/TrashContainer_01/Meshes/sm_en_TrashContainer_01.sm_en_TrashContainer_01
+[2019.10.17-14.28.32:884][109]LogStaticMesh: sm_en_WoodPallet_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.33:229][109]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2019.10.17-14.28.33:229][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2019.10.17-14.28.33:229][109]LogStaticMesh: Built static mesh [0.35s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_01.sm_en_WoodPallet_01_01
+[2019.10.17-14.28.33:772][109]LogStaticMesh: sm_en_WoodPallet_01_04 스태틱 메시 빌드중...
+[2019.10.17-14.28.33:891][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_14 (AutoDXT, 64X32)
+[2019.10.17-14.28.33:892][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.33:892][109]LogStaticMesh: Built static mesh [0.12s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_04.sm_en_WoodPallet_01_04
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_10 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_11 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_13 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_7 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_8 (AutoDXT, 2048X1024)
+[2019.10.17-14.28.39:188][109]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_9 (AutoDXT, 512X256)
+[2019.10.17-14.28.39:188][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 546
+[2019.10.17-14.28.39:404][109]LogStaticMesh: sm_en_WoodPallet_01_05 스태틱 메시 빌드중...
+[2019.10.17-14.28.39:445][109]LogStaticMesh: Built static mesh [0.04s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_05.sm_en_WoodPallet_01_05
+[2019.10.17-14.28.39:447][109]LogStaticMesh: sm_en_WoodPallet_01_06 스태틱 메시 빌드중...
+[2019.10.17-14.28.39:472][109]LogStaticMesh: Built static mesh [0.02s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_06.sm_en_WoodPallet_01_06
+[2019.10.17-14.28.39:473][109]LogStaticMesh: sm_en_WoodPallet_01_07 스태틱 메시 빌드중...
+[2019.10.17-14.28.39:559][109]LogStaticMesh: Built static mesh [0.09s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_07.sm_en_WoodPallet_01_07
+[2019.10.17-14.28.39:561][109]LogStaticMesh: sm_en_WoodPallet_01_08 스태틱 메시 빌드중...
+[2019.10.17-14.28.39:585][109]LogStaticMesh: Built static mesh [0.02s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_08.sm_en_WoodPallet_01_08
+[2019.10.17-14.28.39:620][109]LogStaticMesh: sm_en_WoodPallet_01_09 스태틱 메시 빌드중...
+[2019.10.17-14.28.39:702][109]LogStaticMesh: Built static mesh [0.12s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_09.sm_en_WoodPallet_01_09
+[2019.10.17-14.28.39:813][109]LogStaticMesh: sm_en_WoodPallet_01_13 스태틱 메시 빌드중...
+[2019.10.17-14.28.40:185][109]LogStaticMesh: Built static mesh [0.38s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_13.sm_en_WoodPallet_01_13
+[2019.10.17-14.28.40:218][109]LogStaticMesh: sm_en_WoodPallet_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.40:476][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 536
+[2019.10.17-14.28.40:476][109]LogStaticMesh: Built static mesh [0.26s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_02.sm_en_WoodPallet_01_02
+[2019.10.17-14.28.40:481][109]LogStaticMesh: sm_en_WoodPallet_01_03 스태틱 메시 빌드중...
+[2019.10.17-14.28.40:827][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 526
+[2019.10.17-14.28.40:827][109]LogStaticMesh: Built static mesh [0.35s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_03.sm_en_WoodPallet_01_03
+[2019.10.17-14.28.40:834][109]LogStaticMesh: sm_en_WoodPallet_01_12 스태틱 메시 빌드중...
+[2019.10.17-14.28.40:869][109]LogStaticMesh: Built static mesh [0.04s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_12.sm_en_WoodPallet_01_12
+[2019.10.17-14.28.40:872][109]LogStaticMesh: sm_en_WoodPallet_01_11 스태틱 메시 빌드중...
+[2019.10.17-14.28.40:971][109]LogStaticMesh: Built static mesh [0.10s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_11.sm_en_WoodPallet_01_11
+[2019.10.17-14.28.40:973][109]LogStaticMesh: sm_en_WoodPallet_01_10 스태틱 메시 빌드중...
+[2019.10.17-14.28.41:002][109]LogStaticMesh: Built static mesh [0.03s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodPallet_01/Meshes/sm_en_WoodPallet_01_10.sm_en_WoodPallet_01_10
+[2019.10.17-14.28.41:003][109]LogStaticMesh: sm_en_WoodSpool_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.41:160][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 516
+[2019.10.17-14.28.41:160][109]LogStaticMesh: Built static mesh [0.16s] /Game/AbandonedFactoryBuildings/Environment/Props/sm_en_WoodSpool_01/Meshes/sm_en_WoodSpool_01_01.sm_en_WoodSpool_01_01
+[2019.10.17-14.28.41:164][109]LogStaticMesh: sm_OldWarehouses_Column_B_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.41:241][109]LogStaticMesh: Built static mesh [0.08s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Column_B_01_01.sm_OldWarehouses_Column_B_01_01
+[2019.10.17-14.28.41:244][109]LogStaticMesh: sm_OldWarehouses_Column_B_02_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.41:441][109]LogStaticMesh: Built static mesh [0.20s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Column_B_02_01.sm_OldWarehouses_Column_B_02_01
+[2019.10.17-14.28.41:448][109]LogStaticMesh: sm_OldWarehouses_Column_B_04_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.41:480][109]LogStaticMesh: Built static mesh [0.03s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Column_B_04_01.sm_OldWarehouses_Column_B_04_01
+[2019.10.17-14.28.41:482][109]LogStaticMesh: sm_OldWarehouses_Column_B_03_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.41:595][109]LogStaticMesh: Built static mesh [0.11s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Column_B_03_01.sm_OldWarehouses_Column_B_03_01
+[2019.10.17-14.28.41:598][109]LogStaticMesh: sm_OldWarehouses_Wall_B_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.42:570][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 506
+[2019.10.17-14.28.42:570][109]LogStaticMesh: Built static mesh [0.97s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Wall_B_01_01.sm_OldWarehouses_Wall_B_01_01
+[2019.10.17-14.28.42:591][109]LogStaticMesh: sm_OldWarehouses_Wall_B_02_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.43:279][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 496
+[2019.10.17-14.28.43:279][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 486
+[2019.10.17-14.28.43:279][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 476
+[2019.10.17-14.28.43:279][109]LogStaticMesh: Built static mesh [0.69s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Wall_B_02_01.sm_OldWarehouses_Wall_B_02_01
+[2019.10.17-14.28.43:294][109]LogStaticMesh: sm_OldWarehouses_Wall_B_03_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.43:984][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 466
+[2019.10.17-14.28.43:984][109]LogStaticMesh: Built static mesh [0.69s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Wall_B_03_01.sm_OldWarehouses_Wall_B_03_01
+[2019.10.17-14.28.43:999][109]LogStaticMesh: sm_OldWarehouses_Wall_B_06_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.44:245][109]LogStaticMesh: Built static mesh [0.25s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Wall_B_06_01.sm_OldWarehouses_Wall_B_06_01
+[2019.10.17-14.28.44:251][109]LogStaticMesh: sm_OldWarehouses_Wall_B_05_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.44:527][109]LogStaticMesh: Built static mesh [0.28s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Wall_B_05_01.sm_OldWarehouses_Wall_B_05_01
+[2019.10.17-14.28.44:534][109]LogStaticMesh: sm_OldWarehouses_Wall_B_04_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.45:297][109]LogStaticMesh: Built static mesh [0.76s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallB/Meshes/sm_OldWarehouses_Wall_B_04_01.sm_OldWarehouses_Wall_B_04_01
+[2019.10.17-14.28.45:315][109]LogStaticMesh: sm_OldWarehouses_WallA_01_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.47:594][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 456
+[2019.10.17-14.28.47:594][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 446
+[2019.10.17-14.28.47:594][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 436
+[2019.10.17-14.28.47:594][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 426
+[2019.10.17-14.28.47:594][109]LogStaticMesh: Built static mesh [2.28s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallA/Meshes/sm_OldWarehouses_WallA_01_01.sm_OldWarehouses_WallA_01_01
+[2019.10.17-14.28.47:652][109]LogStaticMesh: sm_OldWarehouses_WallA_01_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.49:697][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 416
+[2019.10.17-14.28.49:697][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 406
+[2019.10.17-14.28.49:697][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 396
+[2019.10.17-14.28.49:697][109]LogStaticMesh: Built static mesh [2.04s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallA/Meshes/sm_OldWarehouses_WallA_01_02.sm_OldWarehouses_WallA_01_02
+[2019.10.17-14.28.49:759][109]LogStaticMesh: sm_OldWarehouses_WallA_02_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.52:357][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 386
+[2019.10.17-14.28.52:357][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 376
+[2019.10.17-14.28.52:357][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 366
+[2019.10.17-14.28.52:357][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 356
+[2019.10.17-14.28.52:357][109]LogStaticMesh: Built static mesh [2.60s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallA/Meshes/sm_OldWarehouses_WallA_02_01.sm_OldWarehouses_WallA_02_01
+[2019.10.17-14.28.52:409][109]LogStaticMesh: sm_OldWarehouses_WallA_02_02 스태틱 메시 빌드중...
+[2019.10.17-14.28.55:125][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 346
+[2019.10.17-14.28.55:125][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 336
+[2019.10.17-14.28.55:125][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 326
+[2019.10.17-14.28.55:125][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 316
+[2019.10.17-14.28.55:125][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 306
+[2019.10.17-14.28.55:125][109]LogStaticMesh: Built static mesh [2.72s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallA/Meshes/sm_OldWarehouses_WallA_02_02.sm_OldWarehouses_WallA_02_02
+[2019.10.17-14.28.55:180][109]LogStaticMesh: sm_OldWarehouses_WallA_02_04 스태틱 메시 빌드중...
+[2019.10.17-14.28.57:019][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 296
+[2019.10.17-14.28.57:019][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 286
+[2019.10.17-14.28.57:019][109]LogStaticMesh: Built static mesh [1.84s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallA/Meshes/sm_OldWarehouses_WallA_02_04.sm_OldWarehouses_WallA_02_04
+[2019.10.17-14.28.57:057][109]LogStaticMesh: sm_OldWarehouses_WallA_03_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.59:192][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 276
+[2019.10.17-14.28.59:192][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 266
+[2019.10.17-14.28.59:192][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 256
+[2019.10.17-14.28.59:192][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 246
+[2019.10.17-14.28.59:192][109]LogStaticMesh: Built static mesh [2.13s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallA/Meshes/sm_OldWarehouses_WallA_03_01.sm_OldWarehouses_WallA_03_01
+[2019.10.17-14.28.59:240][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 236
+[2019.10.17-14.28.59:240][109]LogStaticMesh: sm_OldWarehouses_WallA_04_01 스태틱 메시 빌드중...
+[2019.10.17-14.28.59:410][109]LogStaticMesh: Built static mesh [0.17s] /Game/AbandonedFactoryBuildings/Environment/OldWarehouses_WallA/Meshes/sm_OldWarehouses_WallA_04_01.sm_OldWarehouses_WallA_04_01
+[2019.10.17-14.28.59:431][109]LogMaterial: Display: Missing cached shader map for material m_en_DirtDecal_01_01, compiling. 
+[2019.10.17-14.28.59:554][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 226
+[2019.10.17-14.28.59:554][109]LogMaterial: Display: Missing cached shader map for material m_en_puddle_01_01, compiling. 
+[2019.10.17-14.28.59:584][109]LogMaterial: Display: Missing cached shader map for material m_en_puddle_01_02, compiling. 
+[2019.10.17-14.28.59:618][109]LogMaterial: Display: Missing cached shader map for material m_GroundPavestone_01_02_paralax, compiling. 
+[2019.10.17-14.28.59:669][109]LogMaterial: Display: Missing cached shader map for material m_en_Moon_01_01, compiling. 
+[2019.10.17-14.28.59:697][109]LogMaterial: Display: Missing cached shader map for material m_en_Moon_01_02, compiling. 
+[2019.10.17-14.28.59:746][109]LogMaterial: Display: Missing cached shader map for material t_OldWarehouses_Windows_02_bc_Mat_metallic, compiling. 
+[2019.10.17-14.28.59:776][109]LogMaterial: Display: Missing cached shader map for material m_GroundPavestone_01_01_paralax, compiling. 
+[2019.10.17-14.28.59:813][109]LogMaterial: Display: Missing cached shader map for material m_GroundPavestone_01_01_paralax, compiling. 
+[2019.10.17-14.28.59:852][109]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2019.10.17-14.28.59:877][109]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2019.10.17-14.28.59:904][109]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2019.10.17-14.28.59:949][109]LogMaterial: Display: Missing cached shader map for material m_en_MetalSupport_01_02_Wind, compiling. 
+[2019.10.17-14.29.00:005][109]LogMaterial: Display: Missing cached shader map for material m_BaseMaterialWindows_01, compiling. 
+[2019.10.17-14.29.00:054][109]LogMaterial: Display: Missing cached shader map for material m_BaseMaterial_01, compiling. 
+[2019.10.17-14.29.00:115][109]LogMaterial: Display: Missing cached shader map for material m_en_Pipe_01_03, compiling. 
+[2019.10.17-14.29.00:154][109]LogMaterial: Display: Missing cached shader map for material m_en_Background_01_01, compiling. 
+[2019.10.17-14.29.00:184][109]LogMaterial: Display: Missing cached shader map for material m_en_Background_01_02, compiling. 
+[2019.10.17-14.29.00:225][109]LogMaterial: Display: Missing cached shader map for material m_en_Background_01_03, compiling. 
+[2019.10.17-14.29.00:275][109]LogMaterial: Display: Missing cached shader map for material sm_en_TrashBag_01_01, compiling. 
+[2019.10.17-14.29.00:304][109]LogMaterial: Display: Missing cached shader map for material m_en_Roof_01_03, compiling. 
+[2019.10.17-14.29.00:334][109]LogMaterial: Display: Missing cached shader map for material m_en_Roof_01_02, compiling. 
+[2019.10.17-14.29.00:363][109]LogMaterial: Display: Missing cached shader map for material m_en_Trail_01_01, compiling. 
+[2019.10.17-14.29.00:430][109]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.10.17-14.29.00:530][109]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/AbandonedFactoryBuildings/EpicContent/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.10.17-14.29.01:085][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-14.29.01:273][109]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1284
+[2019.10.17-14.29.01:381][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1274
+[2019.10.17-14.29.01:451][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1264
+[2019.10.17-14.29.01:559][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.10.17-14.29.01:560][109]MapCheck: /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment 레벨의 11 개 컴포넌트에 대해 페인트된 버텍스 컬러를 고치는 데 0.1s 걸렸습니다. 맵을 다시 저장하면 확정됩니다. 
+[2019.10.17-14.29.01:577][109]MapCheck: Warning: 스태틱 메시 리임포트로 인해 페인트된 버텍스 컬러를 고치는 데 시간이 0.1s 만큼 걸렸습니다. 맵을 다시 저장하기 전까지는 로드할 때마다 이 작업이 실행됩니다. 
+[2019.10.17-14.29.01:645][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-14.29.01:646][109]MapCheck: 맵 체크 완료: 오류 0 회, 경고 1 회, 소요 시간 0.46ms.
+[2019.10.17-14.29.01:695][109]LogFileHelpers: Loading map 'Main_Warehouse_01' took 46.249
+[2019.10.17-14.29.01:973][110]LogSlate: Last resort fallback font was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '셰 (U+c170)'
+[2019.10.17-14.29.02:029][110]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1254
+[2019.10.17-14.29.02:030][110]LogSlate: Took 0.054026 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.10.17-14.29.03:355][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1244
+[2019.10.17-14.29.03:549][168]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1234
+[2019.10.17-14.29.05:530][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1224
+[2019.10.17-14.29.05:546][277]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1214
+[2019.10.17-14.29.05:724][286]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1204
+[2019.10.17-14.29.05:906][296]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1194
+[2019.10.17-14.29.07:452][378]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1184
+[2019.10.17-14.29.07:714][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1174
+[2019.10.17-14.29.08:923][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1164
+[2019.10.17-14.29.09:118][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1154
+[2019.10.17-14.29.09:340][481]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1144
+[2019.10.17-14.29.10:171][506]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1134
+[2019.10.17-14.29.10:893][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1124
+[2019.10.17-14.29.12:503][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1114
+[2019.10.17-14.29.13:045][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1104
+[2019.10.17-14.29.13:830][730]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1094
+[2019.10.17-14.29.13:901][735]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1084
+[2019.10.17-14.29.14:785][799]LogSlate: Window '메시지 로그' being destroyed
+[2019.10.17-14.29.14:786][799]LogSlate: Window '메시지 로그' being destroyed
+[2019.10.17-14.29.14:843][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1074
+[2019.10.17-14.29.14:867][805]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1064
+[2019.10.17-14.29.16:879][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1054
+[2019.10.17-14.29.17:316][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1044
+[2019.10.17-14.29.17:687][968]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1034
+[2019.10.17-14.29.17:738][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1024
+[2019.10.17-14.29.19:733][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1014
+[2019.10.17-14.29.19:874][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-14.29.19:953][156]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.17-14.29.20:000][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01'
+[2019.10.17-14.29.20:000][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay'
+[2019.10.17-14.29.20:000][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment'
+[2019.10.17-14.29.20:039][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-14.29.20:068][156]PIE: New page: PIE 세션: Main_Warehouse_01 (2019. 10. 18. 오전 8:29:20)
+[2019.10.17-14.29.20:167][156]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.17-14.29.20:182][156]LogPlayLevel: Creating play world package: /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/UEDPIE_0_Main_Warehouse_01
+[2019.10.17-14.29.20:388][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206386s)
+[2019.10.17-14.29.20:418][156]LogAIModule: Creating AISystem for world Main_Warehouse_01
+[2019.10.17-14.29.20:432][156]LogPlayLevel: PIE: World Init took: (0.043542s)
+[2019.10.17-14.29.20:432][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01 to /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/UEDPIE_0_Main_Warehouse_01.Main_Warehouse_01 (0.250276s)
+[2019.10.17-14.29.20:458][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.10.17-14.29.20:509][156]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-14.29.20:529][156]LogInit: FAudioDevice initialized.
+[2019.10.17-14.29.20:616][156]LogLoad: Game class is 'GameModeBase'
+[2019.10.17-14.29.21:067][156]LogWorld: Bringing World /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/UEDPIE_0_Main_Warehouse_01.Main_Warehouse_01 up for play (max tick rate 0) at 2019.10.17-23.29.21
+[2019.10.17-14.29.21:127][156]LogWorld: Bringing up level for play took: 0.063129
+[2019.10.17-14.29.21:137][156]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.10.17-14.29.21:317][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1004
+[2019.10.17-14.29.21:317][156]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.17-14.29.21:352][156]PIE: /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/UEDPIE_0_Main_Warehouse_01 에 대한 에디터에서 플레이 시작 시간: 1.432
+[2019.10.17-14.29.21:360][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01'
+[2019.10.17-14.29.21:360][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay'
+[2019.10.17-14.29.21:360][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment'
+[2019.10.17-14.29.21:648][160]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 994
+[2019.10.17-14.29.22:522][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 984
+[2019.10.17-14.29.23:819][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 974
+[2019.10.17-14.29.24:423][338]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 964
+[2019.10.17-14.29.26:245][467]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 954
+[2019.10.17-14.29.26:880][518]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 944
+[2019.10.17-14.29.27:025][531]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 934
+[2019.10.17-14.29.29:307][683]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 924
+[2019.10.17-14.29.29:423][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 914
+[2019.10.17-14.29.29:622][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 904
+[2019.10.17-14.29.31:437][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 894
+[2019.10.17-14.29.31:758][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 884
+[2019.10.17-14.29.31:813][830]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 874
+[2019.10.17-14.29.32:198][853]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 864
+[2019.10.17-14.29.33:514][945]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 854
+[2019.10.17-14.29.36:026][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 844
+[2019.10.17-14.29.36:142][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 834
+[2019.10.17-14.29.36:333][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 824
+[2019.10.17-14.29.36:579][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 814
+[2019.10.17-14.29.38:811][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 804
+[2019.10.17-14.29.39:474][379]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 794
+[2019.10.17-14.29.39:491][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 784
+[2019.10.17-14.29.40:255][438]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 774
+[2019.10.17-14.29.44:383][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 764
+[2019.10.17-14.29.44:404][766]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 754
+[2019.10.17-14.29.44:644][789]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 744
+[2019.10.17-14.29.45:126][839]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 734
+[2019.10.17-14.29.47:361][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 724
+[2019.10.17-14.29.47:563][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 714
+[2019.10.17-14.29.48:725][169]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 704
+[2019.10.17-14.29.48:732][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 694
+[2019.10.17-14.29.49:438][239]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 684
+[2019.10.17-14.29.49:739][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 674
+[2019.10.17-14.29.52:206][500]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 664
+[2019.10.17-14.29.52:512][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 654
+[2019.10.17-14.29.53:427][581]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 644
+[2019.10.17-14.29.53:530][588]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 634
+[2019.10.17-14.29.54:583][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 624
+[2019.10.17-14.29.55:627][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 614
+[2019.10.17-14.29.56:949][831]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 604
+[2019.10.17-14.29.58:717][956]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 594
+[2019.10.17-14.29.58:797][961]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 584
+[2019.10.17-14.30.00:057][ 38]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 574
+[2019.10.17-14.30.01:326][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 564
+[2019.10.17-14.30.01:388][122]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 554
+[2019.10.17-14.30.02:848][199]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 544
+[2019.10.17-14.30.04:206][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 534
+[2019.10.17-14.30.04:283][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 524
+[2019.10.17-14.30.05:141][334]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 514
+[2019.10.17-14.30.07:019][443]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 504
+[2019.10.17-14.30.07:173][452]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 494
+[2019.10.17-14.30.07:338][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 484
+[2019.10.17-14.30.07:817][486]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 474
+[2019.10.17-14.30.10:737][658]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 464
+[2019.10.17-14.30.10:772][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 454
+[2019.10.17-14.30.11:434][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-14.30.11:508][710]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 444
+[2019.10.17-14.30.11:563][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01'
+[2019.10.17-14.30.11:563][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay'
+[2019.10.17-14.30.11:563][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment'
+[2019.10.17-14.30.11:566][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-14.30.11:574][714]LogWorld: BeginTearingDown for /Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/UEDPIE_0_Main_Warehouse_01
+[2019.10.17-14.30.11:601][714]LogWorld: UWorld::CleanupWorld for Main_Warehouse_01, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-14.30.11:628][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-14.30.11:628][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Main_Warehouse_01.Main_Warehouse_01:PersistentLevel.Main_Warehouse_01'
+[2019.10.17-14.30.11:628][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_lightDay.Warehouse_01_lightDay:PersistentLevel.Warehouse_01_lightDay'
+[2019.10.17-14.30.11:629][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel' has LevelScriptBlueprint '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment' with GeneratedClass '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment_C' with ClassGeneratedBy '/Game/AbandonedFactoryBuildings/Maps/Warehouse_01_day/Warehouse_01_environment.Warehouse_01_environment:PersistentLevel.Warehouse_01_environment'
+[2019.10.17-14.30.11:716][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-14.30.11:757][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.17-14.30.11:802][715]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.17-14.30.11:838][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 434
+[2019.10.17-14.30.11:838][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.10.17-14.30.13:414][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 424
+[2019.10.17-14.30.14:089][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 414
+[2019.10.17-14.30.14:465][950]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 404
+[2019.10.17-14.30.14:792][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 394
+[2019.10.17-14.30.15:089][ 20]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 384
+[2019.10.17-14.30.16:815][227]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 374
+[2019.10.17-14.30.17:294][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 364
+[2019.10.17-14.30.17:309][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 354
+[2019.10.17-14.30.18:196][390]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 344
+[2019.10.17-14.30.18:663][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 334
+[2019.10.17-14.30.18:721][453]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 324
+[2019.10.17-14.30.20:380][652]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 314
+[2019.10.17-14.30.20:630][682]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 304
+[2019.10.17-14.30.20:688][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 294
+[2019.10.17-14.30.21:360][767]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 284
+[2019.10.17-14.30.22:507][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 274
+[2019.10.17-14.30.22:933][956]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 264
+[2019.10.17-14.30.24:417][134]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 254
+[2019.10.17-14.30.24:750][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 244
+[2019.10.17-14.30.25:163][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 234
+[2019.10.17-14.30.26:253][352]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 224
+[2019.10.17-14.30.26:919][432]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 214
+[2019.10.17-14.30.27:202][466]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 204
+[2019.10.17-14.30.27:938][552]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 194
+[2019.10.17-14.30.28:409][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 184
+[2019.10.17-14.30.29:359][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 174
+[2019.10.17-14.30.30:202][823]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 164
+[2019.10.17-14.30.31:093][926]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 154
+[2019.10.17-14.30.31:581][980]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2019.10.17-14.30.31:890][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2019.10.17-14.30.32:455][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2019.10.17-14.30.34:287][297]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2019.10.17-14.30.34:745][352]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 104
+[2019.10.17-14.30.35:500][434]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 94
+[2019.10.17-14.30.35:612][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 84
+[2019.10.17-14.30.37:459][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2019.10.17-14.30.38:428][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2019.10.17-14.30.38:610][783]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2019.10.17-14.30.39:678][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2019.10.17-14.30.40:550][ 12]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.10.17-14.30.41:467][108]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.10.17-14.30.42:542][232]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.17-14.30.42:883][273]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.17-14.30.43:703][369]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.17-14.30.43:716][370]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.10.17-14.30.44:453][457]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.17-14.30.44:469][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.17-14.30.44:503][463]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.17-14.41.54:585][524]LogHttp: Warning: 00000000262EA840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: request failed, libcurl error: 0 (No error)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x663bf70 [can pipeline])
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.62.2) port 443 (#26))
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 7 (Closing connection 26)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: 00000000262EA840: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.17-14.41.54:586][524]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: request failed, libcurl error: 0 (No error)
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x663bf70 [can pipeline])
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 1 (Re-using existing connection! (#29) with host datarouter.ol.epicgames.com)
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.23.98.45) port 443 (#29))
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 7 (Closing connection 29)
+[2019.10.17-14.50.54:400][133]LogHttp: Warning: 00000000262EA840: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.17-14.50.54:737][134]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: request failed, libcurl error: 0 (No error)
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x663bf70 [can pipeline])
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 1 (Re-using existing connection! (#31) with host datarouter.ol.epicgames.com)
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.16.28) port 443 (#31))
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.17-14.56.54:355][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.17-14.56.54:356][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.17-14.56.54:356][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 7 (Closing connection 31)
+[2019.10.17-14.56.54:356][206]LogHttp: Warning: 00000000262EA840: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.17-14.56.54:356][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: request failed, libcurl error: 0 (No error)
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x663bf70 [can pipeline])
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.251.232) port 443 (#34))
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.17-15.04.54:435][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 7 (Closing connection 34)
+[2019.10.17-15.04.54:436][637]LogHttp: Warning: 00000000262EA840: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.17-15.04.54:765][638]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.17-15.10.54:485][708]LogHttp: Warning: 00000000262EA840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: request failed, libcurl error: 0 (No error)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x663bf70 [can pipeline])
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 1 (Re-using existing connection! (#36) with host datarouter.ol.epicgames.com)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.175.157.122) port 443 (#36))
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 7 (Closing connection 36)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: 00000000262EA840: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.17-15.10.54:486][708]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.17-15.16.54:563][781]LogHttp: Warning: 00000000262EA840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.17-15.16.54:563][781]LogHttp: Warning: 00000000262EA840: request failed, libcurl error: 0 (No error)
+[2019.10.17-15.16.54:563][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x663bf70 [can pipeline])
+[2019.10.17-15.16.54:563][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 1 (Re-using existing connection! (#38) with host datarouter.ol.epicgames.com)
+[2019.10.17-15.16.54:563][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.156.38) port 443 (#38))
+[2019.10.17-15.16.54:563][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.17-15.16.54:563][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.17-15.16.54:564][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.17-15.16.54:564][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.17-15.16.54:564][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 7 (Closing connection 38)
+[2019.10.17-15.16.54:564][781]LogHttp: Warning: 00000000262EA840: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.17-15.16.54:900][782]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: request failed, libcurl error: 0 (No error)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x663bf70 [can pipeline])
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 1 (Re-using existing connection! (#59) with host datarouter.ol.epicgames.com)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.165.171.83) port 443 (#59))
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 7 (Closing connection 59)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: 000000001BB3DBC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.17-16.02.54:610][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9821156A-42CD-77C3-1FFC-A08AC52EF2BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=b8812c294867ca2def1fb5ace555d444%7C94cfa6d4cc6c4db4a364623dc34d20ff%7Ce9254999-38ae-4207-8c04-ca9a920c0656&AppEnvironment=datacollector-binary&UploadType=eteventstream
