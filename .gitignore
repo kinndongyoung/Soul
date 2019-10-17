@@ -1,0 +1,8 @@
+Soul/Content/
+Soul/Saved
+Soul/Intermediate
+Soul/.vs
+Soul/Build
+Soul/Plugins
+*.sln
+*_BuiltData.uaaset
