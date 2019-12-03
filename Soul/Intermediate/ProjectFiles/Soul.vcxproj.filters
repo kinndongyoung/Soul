@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Soul.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{973F5715-6DAB-4AA0-9CB9-A31ACBE5849E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Soul.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SoulEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{928A571F-B6E1-4A34-8C6C-C29819DF70A7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{9371C08A-9AA6-41AA-AD44-BA318534148F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{E0525ECC-8E3B-49CB-8CB8-F462B2301E29}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{B4ACE872-CADA-4CF0-948F-D1F55E845ED9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{E09719FD-33EA-4E06-8713-B36E20AD7EB2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{AD99753F-940E-4B04-B690-08C1240EE7FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{F95EB466-335E-4985-8734-2D6E544AD712}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{C5F883B9-9EB9-47D8-83AF-633B0DBB98D4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{DB08B25E-F344-4E74-A8AE-9AD4BB4ED4CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Soul">
+      <UniqueIdentifier>{F3A3B8FC-868F-4AA2-9460-F1222D57AB82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Soul\Soul.Build.cs">
+      <Filter>Source\Soul</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Soul\Soul_GameMode.h">
+      <Filter>Source\Soul\00.GameMode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul.h">
+      <Filter>Source\Soul\99.DebugOrHeaderClass</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul_UserController.h">
+      <Filter>Source\Soul\01.User\01-02.UserController</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul_UserCharacter.h">
+      <Filter>Source\Soul\01.User\01-01.UserCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul_UserWeapon.h">
+      <Filter>Source\Soul\01.User\01-04.UserWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul_UserAnimInstance.h">
+      <Filter>Source\Soul\01.User\01-03.UserAnimInstance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul_UserWeaponBullet.h">
+      <Filter>Source\Soul\01.User\01-04.UserWeapon\WeaponBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul_InstallationTrigger.h">
+      <Filter>Source\Soul\04.Trigger\04-01.InstallationTrigger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Soul\Soul_HUD.h">
+      <Filter>Source\Soul\03.HUD</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Soul\Soul_GameMode.cpp">
+      <Filter>Source\Soul\00.GameMode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul.cpp">
+      <Filter>Source\Soul\99.DebugOrHeaderClass</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul_UserController.cpp">
+      <Filter>Source\Soul\01.User\01-02.UserController</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul_UserCharacter.cpp">
+      <Filter>Source\Soul\01.User\01-01.UserCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul_UserWeapon.cpp">
+      <Filter>Source\Soul\01.User\01-04.UserWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul_UserAnimInstance.cpp">
+      <Filter>Source\Soul\01.User\01-03.UserAnimInstance</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul_UserWeaponBullet.cpp">
+      <Filter>Source\Soul\01.User\01-04.UserWeapon\WeaponBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul_InstallationTrigger.cpp">
+      <Filter>Source\Soul\04.Trigger\04-01.InstallationTrigger</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Soul\Soul_HUD.cpp">
+      <Filter>Source\Soul\03.HUD</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Soul\00.GameMode">
+      <UniqueIdentifier>{73bf5cdf-8dfe-4672-875e-4c60bb671de4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\99.DebugOrHeaderClass">
+      <UniqueIdentifier>{c8cced3e-30cd-40a9-8b9b-6570acaaf6d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\01.User">
+      <UniqueIdentifier>{34ca8919-7434-4e6b-a919-d967313eb7e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\01.User\01-02.UserController">
+      <UniqueIdentifier>{f9c669dc-c226-44a2-9e43-035bef507dad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\01.User\01-01.UserCharacter">
+      <UniqueIdentifier>{72998c87-289c-443d-aaf9-52895cc73e85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\01.User\01-04.UserWeapon">
+      <UniqueIdentifier>{bc8a6a54-58f0-4d48-b74f-99be9c7e726c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\01.User\01-03.UserAnimInstance">
+      <UniqueIdentifier>{8064a516-631d-4a99-a395-9a33c978ee0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\01.User\01-04.UserWeapon\WeaponBullet">
+      <UniqueIdentifier>{83f35994-b52e-4658-82ed-3ac6d0cc9ace}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\04.Trigger">
+      <UniqueIdentifier>{13cb381d-28b1-4633-a95f-ed3db4fc1a24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\04.Trigger\04-01.InstallationTrigger">
+      <UniqueIdentifier>{7bc926af-7315-48f5-82c2-78686e68585c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Soul\03.HUD">
+      <UniqueIdentifier>{ca22573f-467a-45e4-8c1f-ddfdb14270a1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

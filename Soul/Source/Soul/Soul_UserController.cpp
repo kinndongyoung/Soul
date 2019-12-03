@@ -1,4 +1,5 @@
 #include "Soul_UserController.h"
+#include "Blueprint/UserWidget.h"
 
 void ASoul_UserController::PostInitializeComponents()
 {

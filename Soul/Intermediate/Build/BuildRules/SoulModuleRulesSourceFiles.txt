@@ -1,0 +1,3 @@
+D:\LSH\Unreal\Soul00_Base\Soul\Source\Soul\Soul.Build.cs
+D:\LSH\Unreal\Soul00_Base\Soul\Source\Soul.Target.cs
+D:\LSH\Unreal\Soul00_Base\Soul\Source\SoulEditor.Target.cs

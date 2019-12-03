@@ -2,23 +2,25 @@
 #include "Soul_UserAnimInstance.h"
 #include "Soul_UserWeapon.h"
 #include "Soul_UserWeaponBullet.h"
+#include "Soul_HUD.h"
 
 // 생성자에서 User 초기화
 ASoul_UserCharacter::ASoul_UserCharacter()
 {
 	PrimaryActorTick.bCanEverTick = true;
 	
-	// Camera Initialize
+	// Camera Create
 	UserCameraArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("CAMERA_ARM"));
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("CAMERA"));
 
+	// Camera Initialize
 	UserCameraArm->SetupAttachment(GetCapsuleComponent());
 	Camera->SetupAttachment(UserCameraArm);
 
 	GetMesh()->SetRelativeLocationAndRotation(FVector(0.0f, 0.0f, -88.0f), FRotator(0.0f, -90.0f, 0.0f));
 	UserCameraArm->TargetArmLength = 200.0f;
 	UserCameraArm->SetRelativeLocationAndRotation(FVector(0.0f, 0.0f, 40.0f), FRotator(-30.0f, 0.0f, 0.0f));
-	
+
 	// Skeletal Mesh Initialize
 	static ConstructorHelpers::FObjectFinder<USkeletalMesh> SK_SOUL_USER(TEXT("/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin"));
 
@@ -31,6 +33,9 @@ ASoul_UserCharacter::ASoul_UserCharacter()
 	if (BP_ANIM_SOUL_USER.Succeeded())
 		GetMesh()->SetAnimInstanceClass(BP_ANIM_SOUL_USER.Class);
 
+	// Set Tribes
+	SetTribes(ETribes::ANGEL);
+
 	// Value Initialize
 	SetControlMode(EControlMode::TPS);
 
@@ -42,6 +47,7 @@ ASoul_UserCharacter::ASoul_UserCharacter()
 
 	// Bullet Initialize
 	isFiring = false;
+	isTrigger = false;
 	MuzzleOffset = FVector(100.0f, 0.0f, 0.0f);
 	
 	static ConstructorHelpers::FObjectFinder<UBlueprint> BP_SOUL_WEAPON_BULLET(TEXT("/Game/Project_Soul/BluePrint/BP_SoulWeaponBullet.BP_SoulWeaponBullet"));
@@ -74,7 +80,9 @@ void ASoul_UserCharacter::Tick(float DeltaTime)
 void ASoul_UserCharacter::PostInitializeComponents()
 {
 	Super::PostInitializeComponents();
+
 	SoulAnim = Cast<USoul_UserAnimInstance>(GetMesh()->GetAnimInstance());
+	Angel_HUD = Cast<ASoul_HUD>(GetGameInstance()->GetPrimaryPlayerController());
 }
 
 void ASoul_UserCharacter::PossessedBy(AController * NewController)
@@ -87,14 +95,27 @@ void ASoul_UserCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInput
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
-	PlayerInputComponent->BindAction(TEXT("Jump"), EInputEvent::IE_Pressed, this, &ASoul_UserCharacter::Jump);
-	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &ASoul_UserCharacter::StartFire);
-	PlayerInputComponent->BindAction("Fire", IE_Released, this, &ASoul_UserCharacter::StopFire);
+	// 종족 공통 행동
+	PlayerInputComponent->BindAction(TEXT("Jump"), IE_Pressed, this, &ASoul_UserCharacter::Jump);
+	PlayerInputComponent->BindAction(TEXT("Fire"), IE_Pressed, this, &ASoul_UserCharacter::StartFire);
+	PlayerInputComponent->BindAction(TEXT("Fire"), IE_Released, this, &ASoul_UserCharacter::StopFire);
 
 	PlayerInputComponent->BindAxis(TEXT("UpDown"), this, &ASoul_UserCharacter::UpDown);
 	PlayerInputComponent->BindAxis(TEXT("LeftRight"), this, &ASoul_UserCharacter::LeftRight);
 	PlayerInputComponent->BindAxis(TEXT("Turn"), this, &ASoul_UserCharacter::Turn);
 	PlayerInputComponent->BindAxis(TEXT("LookUp"), this, &ASoul_UserCharacter::LookUp);
+
+	// 종족 개별 행동
+	// Angel
+	InstallPer = 0.0f;
+	PlayerInputComponent->BindAction(TEXT("Angel_Installation"), IE_Pressed, this, &ASoul_UserCharacter::Angel_Installation_Start);
+	PlayerInputComponent->BindAction(TEXT("Angel_Installation"), IE_Repeat, this, &ASoul_UserCharacter::Angel_Installation_Repeat);
+	PlayerInputComponent->BindAction(TEXT("Angel_Installation"), IE_Released, this, &ASoul_UserCharacter::Angel_Installation_End);
+}
+
+void ASoul_UserCharacter::SetTribes(ETribes NewTribes)
+{
+	e_tribes = NewTribes;
 }
 
 // Set Camera Arm
@@ -129,6 +150,42 @@ void ASoul_UserCharacter::Turn(float NewAxisValue)
 	AddControllerYawInput(NewAxisValue);
 }
 
+void ASoul_UserCharacter::Angel_Installation_Start()
+{
+	print("Input T Key");
+	if (e_tribes == ETribes::ANGEL && isTrigger == true)
+	{
+		Angel_HUD->Angel_Install_State = true;
+		printf("%s", Angel_HUD->Angel_Install_State);
+	}		
+}
+
+void ASoul_UserCharacter::Angel_Installation_Repeat()
+{
+	print("Repeat T Key");
+	if (e_tribes == ETribes::ANGEL && isTrigger == true)
+	{
+		//if (Angel_HUD->Angel_Install_State == true)
+		//{
+		//	//CurrentWidget_InstallBar->SetPercent(InstallPer += 0.1f);
+		//	Angel_HUD->CurrentWidget_InstallBar->SetPositionInViewport();
+		//}
+	}		
+}
+
+void ASoul_UserCharacter::Angel_Installation_End()
+{
+	print("Release T Key");
+	if (e_tribes == ETribes::ANGEL && isTrigger == true)
+	{
+		if (Angel_HUD->Angel_Install_State == true)
+		{			
+			Angel_HUD->Angel_Install_State = false;
+			printf("%s", Angel_HUD->Angel_Install_State);
+		}
+	}		
+}
+
 void ASoul_UserCharacter::LookUp(float NewAxisValue)
 {
 	AddControllerPitchInput(NewAxisValue);
@@ -150,7 +207,7 @@ void ASoul_UserCharacter::Fire()
 		if (WeaponBulletClass)
 		{
 			// MuzzleOffset 을 카메라 스페이스에서 월드 스페이스로 변환합니다.
-			FVector MuzzleLocation = UserWeapon->ActorToWorld().GetLocation() + FVector(30.0f, 10.0f, 0.0f)/* + UserWeapon->ActorToWorld().TransformVector(MuzzleOffset)*/;
+			FVector MuzzleLocation = UserWeapon->ActorToWorld().GetLocation() + FVector(30.0f, 10.0f, 0.0f);
 			FRotator MuzzleRotation = GetMesh()->GetComponentRotation() + FRotator(0.0f, 90.0f, 0.0f);
 
 			// 조준을 약간 윗쪽으로 올려줍니다.

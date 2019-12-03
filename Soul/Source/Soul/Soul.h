@@ -1,5 +1,6 @@
 #pragma once
 #include "EngineMinimal.h"
+#include "Engine/Engine.h"
 
 DECLARE_LOG_CATEGORY_EXTERN(ArenaBattle, Log, All);
 

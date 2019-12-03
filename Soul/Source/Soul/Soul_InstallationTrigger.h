@@ -15,6 +15,9 @@ protected:
 public:
 	ASoul_InstallationTrigger();
 
+	UPROPERTY(VisibleAnywhere, Category = Install_Space)
+	UStaticMeshComponent *p_InstallMesh;
+
 	UFUNCTION()
 	void OnOverlapBegin(class AActor* OverlappedActor, class AActor* OtherActor);
 
